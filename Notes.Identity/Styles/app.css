@@ -1,0 +1,31 @@
+﻿.input{
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    background: #fff;
+    width:100%;
+}
+.header{
+  font-family: Arial, sans-serif;
+  color: #332600;
+  font-size: 30px;
+  text-align: center;
+}
+.button{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border: 0;
+    border-bottom: 1px solid gray;
+}
+.block{
+    margin-top: 10px;
+}
+.switch-button{
+    margin-top:8px;
+    font-size:8px;
+    border-radius:4px;
+    color: #332600;
+    font-family:Arial, sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
